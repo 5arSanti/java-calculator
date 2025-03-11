@@ -1,3 +1,4 @@
+package src;
 public enum OperationsEnum {
   SUMA("Suma"),
   RESTA("Resta"),
